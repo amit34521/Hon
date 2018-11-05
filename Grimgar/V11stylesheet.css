@@ -1,0 +1,146 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: none;
+    visibility: hidden
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 20pt;
+    margin: 2em 0 1em
+    }
+.calibre3 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.calibre4 {
+    height: 3em;
+    margin-bottom: 1em;
+    max-width: 100%;
+    width: auto
+    }
+.calibre5 {
+    display: block;
+    text-indent: 20pt;
+    margin: 0
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: block
+    }
+.calibre8 {
+    display: block;
+    text-indent: 20pt;
+    word-wrap: break-word;
+    margin: 0
+    }
+.calibre9 {
+    height: auto;
+    max-width: 100%;
+    width: 25%
+    }
+.centerp {
+    display: block;
+    text-align: center;
+    text-indent: 20pt;
+    margin: 0
+    }
+.centerp1 {
+    display: block;
+    text-align: center;
+    text-indent: 20pt;
+    margin: 1em 0 0
+    }
+.chapter-header {
+    display: block;
+    text-align: center
+    }
+.insert {
+    clear: both;
+    height: auto;
+    max-height: 98%;
+    max-width: 100%;
+    overflow: hidden;
+    page-break-inside: avoid;
+    width: auto
+    }
+.main {
+    display: block;
+    font-weight: normal;
+    letter-spacing: 0;
+    orphans: 1;
+    widows: 1;
+    word-spacing: 0
+    }
+.nomargin {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2em;
+    text-align: center;
+    margin: 0 5pt;
+    padding: 0
+    }
+.none {
+    display: block;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left
+    }
+.section-break {
+    display: block;
+    text-indent: 20pt;
+    margin: 1em 0 0
+    }
+.toc-appendix {
+    display: list-item;
+    font-size: 1em;
+    margin-top: 16px
+    }
+.toc-chapter {
+    display: list-item;
+    font-size: 1em;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 66pt;
+    margin-top: 6pt;
+    text-indent: -66pt
+    }
+.toc-front {
+    display: list-item;
+    font-size: 1em;
+    margin-top: 6pt;
+    text-indent: 0
+    }
+.toc-signup {
+    display: list-item;
+    font-size: 1em
+    }
+.toc-title {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 10% 0 2em
+    }
