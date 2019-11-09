@@ -1,0 +1,22 @@
+public class TrainingDtls:AuditModel
+{
+private static long serialVersionUID = 1L;
+private long id;
+private string status;
+private int progress;
+private float commisionAmount;
+private int rating;
+private float avgRating = @.0ef;
+private DateTime startDate;
+private DateTime endDate;
+private string startTime;
+private string endTime;
+private float amountReceived;
+private long userId;
+private string userName;
+private long mentorId;
+private string mentorName;
+private long skillId;
+private string skillName;
+private float fees;
+i
